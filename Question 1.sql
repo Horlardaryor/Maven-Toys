@@ -1,3 +1,4 @@
+Question 1
 /* Which product categories drive the biggest profits? Is this the same across store locations? */
 
 WITH category_profit AS (
